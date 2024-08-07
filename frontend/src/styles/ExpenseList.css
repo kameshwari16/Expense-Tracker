@@ -1,0 +1,8 @@
+.bg{
+    width: '100%';
+    /* background-image: url('C:\Users\p sai kameshwari\OneDrive\Desktop\Expense tracker\frontend\src\images\1.png');  */
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    /* opacity: 0.5;  */
+}
